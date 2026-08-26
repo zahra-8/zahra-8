@@ -1,6 +1,22 @@
 <div align="center">
-  <img src="https://files.catbox.moe/mysodf.png" width="100%" alt="Fatima-Zohra Benterki - Bio & Tools" />
+  <img src="https://files.catbox.moe/jsqs5o.png" width="100%" alt="Welcome to GitHub World!" />
 </div>
+
+<br/>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="40%" valign="top">
+  <img src="https://files.catbox.moe/2x6k7i.png" width="100%" alt="Hey, I'm Fatima-Zohra Benterki" />
+</td>
+
+<td width="3%"></td>
+
+<td width="57%" valign="top">
+  <img src="https://files.catbox.moe/nlqla9.png" width="100%" alt="Languages & Tools" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -17,7 +33,7 @@
 <a href="https://github.com/zahra-8/-System-for-Exam-Scheduling-in-Universities"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zahra-8&repo=-System-for-Exam-Scheduling-in-Universities&theme=tokyonight" width="100%" alt="System-for-Exam-Scheduling" /></a>
 
 <div align="right">
-  <a href="https://github.com/zahra-8?tab=repositories"><sub>View all repositories on GitHub →</sub></a>
+  <a href="https://github.com/zahra-8?tab=repositories" style="color: #a855f7;"><sub>View all repositories on GitHub →</sub></a>
 </div>
 
 </td>
