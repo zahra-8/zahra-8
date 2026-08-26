@@ -81,39 +81,21 @@ I learn by building, experimenting, and occasionally breaking things just enough
 <hr/>
 <br/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="48%" valign="top">
-
 ### ⭐ Popular Repositories
 
-<a href="https://github.com/zahra-8/app-mobile"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zahra-8&repo=app-mobile&theme=tokyonight" width="100%" alt="app-mobile" /></a>
+<p align="center">
+  <a href="https://github.com/zahra-8/app-mobile"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zahra-8&repo=app-mobile&theme=tokyonight" width="48%" alt="app-mobile" /></a>
+  &nbsp;
+  <a href="https://github.com/zahra-8/AI-Text-Summarizer-Web-App"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zahra-8&repo=AI-Text-Summarizer-Web-App&theme=tokyonight" width="48%" alt="AI-Text-Summarizer-Web-App" /></a>
+</p>
 
-<a href="https://github.com/zahra-8/AI-Text-Summarizer-Web-App"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zahra-8&repo=AI-Text-Summarizer-Web-App&theme=tokyonight" width="100%" alt="AI-Text-Summarizer-Web-App" /></a>
-
-<a href="https://github.com/zahra-8/-System-for-Exam-Scheduling-in-Universities"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zahra-8&repo=-System-for-Exam-Scheduling-in-Universities&theme=tokyonight" width="100%" alt="System-for-Exam-Scheduling" /></a>
+<p align="center">
+  <a href="https://github.com/zahra-8/-System-for-Exam-Scheduling-in-Universities"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zahra-8&repo=-System-for-Exam-Scheduling-in-Universities&theme=tokyonight" width="48%" alt="System-for-Exam-Scheduling" /></a>
+</p>
 
 <div align="right">
   <a href="https://github.com/zahra-8?tab=repositories" style="color: #a855f7;"><sub>View all repositories on GitHub →</sub></a>
 </div>
-
-</td>
-
-<td width="4%"></td>
-
-<td width="48%" valign="top">
-
-### 📊 GitHub Stats
-
-<img src="https://github-stats-extended.vercel.app/api?username=zahra-8&show_icons=true&title_color=a855f7&text_color=cbd5e1&bg_color=0c071e&border_color=2e1065&icon_color=a855f7" width="100%" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zahra-8&layout=donut&title_color=a855f7&text_color=cbd5e1&bg_color=0c071e&border_color=2e1065" width="100%" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
 
 <br/>
 <hr/>
