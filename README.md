@@ -55,10 +55,10 @@ I learn by building, experimenting, and occasionally breaking things just enough
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/>
 </p>
 
-<b>Cybersecurity & SIEM</b><br/>
+<b>Cybersecurity Tools</b><br/>
 <sub><b>SIEM (Security Information & Event Management)</b></sub><br/>
 <p align="left">
-  <img src="https://img.shields.io/badge/Wazuh-0078D4?style=flat-square&logo=shield&logoColor=white" height="26" alt="Wazuh"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/wazuh.svg" width="28" height="28" alt="Wazuh"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/elasticsearch" width="26" height="26" alt="Elasticsearch"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/logstash" width="26" height="26" alt="Logstash"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/kibana" width="26" height="26" alt="Kibana"/>
@@ -67,7 +67,7 @@ I learn by building, experimenting, and occasionally breaking things just enough
 <sub><b>Cybersecurity Tools</b></sub><br/>
 <p align="left">
   <img src="https://cdn.simpleicons.org/wireshark" width="26" height="26" alt="Wireshark"/> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=target&logoColor=white" height="26" alt="Nmap"/> &nbsp;&nbsp;
+  <img src="https://files.catbox.moe/xitmzm.png" width="26" height="26" alt="Nmap"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/burpsuite" width="26" height="26" alt="Burp Suite"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/owasp" width="26" height="26" alt="OWASP ZAP"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="26" height="26" alt="Linux"/>
@@ -90,7 +90,7 @@ I learn by building, experimenting, and occasionally breaking things just enough
 </p>
 
 <p align="center">
-  <a href="https://github.com/zahra-8/-System-for-Exam-Scheduling-in-Universities"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zahra-8&repo=-System-for-Exam-Scheduling-in-Universities&theme=tokyonight" width="48%" alt="System-for-Exam-Scheduling" /></a>
+  <a href="https://github.com/zahra-8/-System-for-Exam-Scheduling-in-Universities"><img src="https://github-stats-extended.vercel.app/api/pin/?username=zahra-8&repo=-System-for-Exam-Scheduling-in-Universities&theme=48%" alt="System-for-Exam-Scheduling" /></a>
 </p>
 
 <div align="right">
